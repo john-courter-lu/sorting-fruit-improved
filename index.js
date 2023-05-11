@@ -55,4 +55,4 @@ function sortFruit(){
   }
 }
 //console.log(typeof(fruitBasket))
-sortFruit()
+//sortFruit()
