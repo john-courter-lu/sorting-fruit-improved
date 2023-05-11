@@ -1,0 +1,54 @@
+body {
+    padding: 40px;
+    background: whitesmoke;
+    text-align: center;
+    //width: 350px;
+}
+
+#fruit-basket {
+    background: lightgreen;
+    border-radius: 10px;
+    height: 60px;
+    margin: 10px 0;
+}
+
+#apple-shelf {
+    background: lightcoral;
+    border-radius: 10px;
+    height: 30px;
+    margin: 10px 0;
+}
+
+#orange-shelf {
+    background: lightsalmon;
+    border-radius: 10px;
+    height: 30px;
+    margin: 10px 0;
+}
+
+#cherry-shelf {
+    background: darkred;
+    border-radius: 10px;
+    height: 30px;
+    margin: 10px 0;
+}
+#avocado-shelf {
+    background: green;
+    border-radius: 10px;
+    height: 30px;
+   // margin: 10px 0;
+}
+#pineapple-shelf {
+    background: darkkhaki;
+    border-radius: 10px;
+    height: 30px;
+    margin: 10px 0;
+}
+
+button {
+    background: darkgoldenrod;
+    margin:6px 2px;
+    padding: 4px 8px;
+    font-size: 15px;
+    width:100px;
+}
